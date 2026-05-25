@@ -62,4 +62,4 @@ jobs:
         with:
           push: true
           tags: |
-            ghcr.io/${{ github.repository_owner }}/solar-system:${{ github.sha }}
+            ghcr.io/palranvir/solar-system:${{ github.sha }}
